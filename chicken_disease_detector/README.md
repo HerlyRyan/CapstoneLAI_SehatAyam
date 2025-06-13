@@ -9,7 +9,7 @@ Chicken Disease detection with Flutter and TFLite. Chicken Disease Detector make
 ## Preview
 
 <p align='center'>
-    <img src="screenshots/1.jpeg" width="32%"/>
+    <img src="screenshots/1.jpg" width="32%"/>
     <img src="screenshots/2.jpg" width="32%"/>
 </p>
 
